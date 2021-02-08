@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="BlocksTop">
-    <output-path>$PROJECT_DIR$/../../../Server/1.8/plugins</output-path>
-    <root id="archive" name="BlocksTop.jar">
-      <element id="module-output" name="BlocksTop" />
-    </root>
-  </artifact>
-</component>
